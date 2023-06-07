@@ -58,8 +58,10 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![OUTPUT](./serverop.png)
-![OUTPUT](./clientop.png)
+## SERVER OUTPUT:
+![WhatsApp Image 2023-06-07 at 11 52 20 AM](https://github.com/Kalpanareshma/webserver/assets/122040453/be7cf5fd-c31b-4f2c-81e8-e39d02974a8a)
+## CLIENT OUTPUT:
+![EX-01 WEB](https://github.com/Kalpanareshma/webserver/assets/122040453/86e2dcaa-9e0a-4063-8c20-28a91609f6b9)
 
 ## RESULT:
 The program is executed succesfully
