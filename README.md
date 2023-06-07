@@ -64,4 +64,4 @@ httpd.serve_forever()
 ![EX-01 WEB](https://github.com/Kalpanareshma/webserver/assets/122040453/86e2dcaa-9e0a-4063-8c20-28a91609f6b9)
 
 ## RESULT:
-The program is executed succesfully
+The program is executed succesfully.
